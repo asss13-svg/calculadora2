@@ -1,1 +1,3 @@
-# projeto calculadora 
+# projeto calculadora cientifica
+
+criado por amilton
